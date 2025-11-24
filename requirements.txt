@@ -1,0 +1,15 @@
+# Core Application and UI
+streamlit
+pymupdf
+
+# Backend Client and Utilities
+jamaibase
+chromadb
+pycountry
+
+# If you are running a separate FastAPI service:
+fastapi
+uvicorn
+
+# If your Streamlit app makes API calls:
+requests

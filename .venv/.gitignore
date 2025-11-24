@@ -1,0 +1,15 @@
+# Created by venv; see https://docs.python.org/3/library/venv.html
+
+# Ignore Python virtual environment folders
+venv/
+.venv/
+
+# Ignore Python cache and build files
+__pycache__/
+*.pyc
+
+# Ignore Streamlit's local cache
+.streamlit/
+
+# Ignore sensitive files (especially if you put credentials here!)
+.env
